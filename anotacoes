@@ -9,3 +9,6 @@ CONFIGURANDO ROTAS
 
 CONFIGURANDO REACTOTRON
 . yarn add reactotron-react-js
+
+ROTAS PRIVADAS
+. yarn add prop-types
