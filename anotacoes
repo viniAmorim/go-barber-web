@@ -12,3 +12,6 @@ CONFIGURANDO REACTOTRON
 
 ROTAS PRIVADAS
 . yarn add prop-types
+
+LAYOUTS POR PÁGINA
+. yarn add styled-components
