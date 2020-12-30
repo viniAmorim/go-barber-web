@@ -6,3 +6,6 @@ ESLINT, PRETTIER & EDITORCONFIG
 CONFIGURANDO ROTAS
 . yarn add react-router-dom
 . yarn add history
+
+CONFIGURANDO REACTOTRON
+. yarn add reactotron-react-js
