@@ -28,3 +28,6 @@ ESTILIZAÇÃO DA AUTENTICAÇÃO
 
 UTILIZANDO UNFORM
 . yarn add @rocketseat/unform
+
+VALIDAÇÕES
+. yarn add yup
