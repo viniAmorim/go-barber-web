@@ -17,4 +17,8 @@ LAYOUTS POR PÁGINA
 . yarn add styled-components
 
 ESTILOS GLOBAIS
-.
+
+UTILIZANDO ROOT IMPORT
+. yarn add customize-cra react-app-rewired -D
+. yarn add babel-plugin-root-import -D
+. yarn add eslint-import-resolver-babel-plugin-root-import -D
