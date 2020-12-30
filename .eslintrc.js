@@ -19,8 +19,6 @@ module.exports = {
   },
   plugins: ['react', 'jsx-a11y', 'import', 'react-hooks', 'prettier'],
   rules: {
-    'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
-    'react/jsx-props-no-spreading': 'off',
     'prettier/prettier': 'error',
     'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
     'import/prefer-default-export': 'off',
@@ -34,8 +32,6 @@ module.exports = {
     'no-console': ['error', { allow: ['tron'] }],
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
-  },
-  settings: {
-    'import/resolver': 'webpack',
+    'react/jsx-props-no-spreading': 'off',
   },
 };
