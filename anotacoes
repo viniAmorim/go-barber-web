@@ -1,0 +1,8 @@
+ESLINT, PRETTIER & EDITORCONFIG
+. yarn add eslint -D
+. yarn eslint --init
+. yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+
+CONFIGURANDO ROTAS
+. yarn add react-router-dom
+. yarn add history
