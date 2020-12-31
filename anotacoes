@@ -39,3 +39,6 @@ AUTENTICAÇÃO
 . yarn add axios
 
 ARMAZENANDO PERFIL
+
+PERSISTINDO AUTENTICAÇÃO
+. yarn add redux-persist
