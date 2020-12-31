@@ -31,3 +31,6 @@ UTILIZANDO UNFORM
 
 VALIDAÇÕES
 . yarn add yup
+
+CONFIGURANDO STORE
+. yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga immer
