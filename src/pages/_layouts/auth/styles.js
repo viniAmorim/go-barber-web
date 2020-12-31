@@ -5,7 +5,6 @@ export const Wrapper = styled.div`
   height: 100%;
   background: linear-gradient(-90deg, #7159c1, #ab59c1);
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
 `;
@@ -25,7 +24,7 @@ export const Content = styled.div`
       border: 0;
       border-radius: 4px;
       height: 44px;
-      padding: 0 15px;
+      padding: 15px;
       color: #fff;
       margin: 0 0 10px;
 
@@ -42,10 +41,10 @@ export const Content = styled.div`
     }
 
     button {
-      margin: 5px 0;
+      margin: 5px 0 0;
       height: 44px;
       background: #3b9eff;
-      font-weight: bold;
+      font-weight: normal;
       color: #fff;
       border: 0;
       border-radius: 4px;
