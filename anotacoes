@@ -44,3 +44,6 @@ PERSISTINDO AUTENTICAÇÃO
 . yarn add redux-persist
 
 LOADING DA AUTENTICAÇÃO
+
+EXIBINDO TOASTS
+. yarn add react-toastify
