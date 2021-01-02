@@ -47,3 +47,9 @@ LOADING DA AUTENTICAÇÃO
 
 EXIBINDO TOASTS
 . yarn add react-toastify
+
+CADASTRO NA APLICAÇÃO
+
+ESTILIZANDO NOTIFICAÇÕES
+. yarn add react-icons
+. yarn add react-perfect-scrollbar
