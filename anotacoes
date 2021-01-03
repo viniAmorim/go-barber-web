@@ -53,3 +53,6 @@ CADASTRO NA APLICAÇÃO
 ESTILIZANDO NOTIFICAÇÕES
 . yarn add react-icons
 . yarn add react-perfect-scrollbar
+
+NOTIFICAÇÕES
+. yarn add date-fns@next
